@@ -27,20 +27,10 @@ The gameplay is based on a simple arcade-style mechanic where the player shoots 
 
 This project was created as part of a Computer Graphics course and focuses on fundamental game development concepts such as sprite handling, animations, collision detection, enemy behavior, and level design. The game combines simple mechanics with progressive difficulty to create an engaging gameplay experience.
 
-## What I Learned
-
-Through this project, I improved my understanding of:
-
-* 2D game development
-* Collision detection and animations
-* Game logic and enemy spawning systems
-* Level design fundamentals
-* Working with Stencyl game engine
 
 ## Future Improvements
 
 * Add more enemy types
 * Introduce power-ups and abilities
-* Improve sound effects and background music
 * Add a main menu and pause system
 * Create additional levels and challenges
